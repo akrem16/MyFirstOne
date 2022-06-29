@@ -1,0 +1,47 @@
+h1{
+    
+  font-family:"Segoe print", Arial, Helvetica, sans-serif;
+  color: #dd0000;  
+}
+body{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(bg.webp);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(7px);
+    
+}
+span{
+    font-weight: bolder;
+}
+legend{
+    background-color: red;
+    font-size: 25px;
+
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+}
+a{
+    font-size: large;
+    color: red;
+    font-weight: bolder;
+    /* border: 4px black solid;
+    border-radius: 12%; */
+}
+a:hover{
+    background-color: gold;
+}
+img{
+    box-shadow: 0 0 10px red;
+
+    
+}
+fieldset{
+    border-color: red;
+    
+    
+}
+
